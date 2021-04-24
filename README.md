@@ -31,5 +31,7 @@ Sou um estudante de análise e desenvolvimento de sistemas apaixonado por escrev
 <br/>
 
 ## 📫 Como me encontrar: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vinicius-da-silva-garcia/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Vinicius-Garcia) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/viniciusdsg1)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vinicius-da-silva-garcia/) 
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Vinicius-Garcia) 
+[![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/viniciusdsg1)
 
