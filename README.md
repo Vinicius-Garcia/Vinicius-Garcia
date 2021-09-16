@@ -4,7 +4,7 @@
 
 - 👨‍💻 Técnico Eletrônico de Desenvolvimento na **Perto S.A.**
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas.
-- 💙 Interesse:Kotlin, HTML, CSS, JavaScript, ReactJS, nodejs , .net e ASP.net.
+- 💙 Interesse: Kotlin, HTML, CSS, JavaScript, ReactJS, Nodejs , . Net e ASP.net.
 
 
 <p align="center">
