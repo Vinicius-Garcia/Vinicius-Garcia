@@ -5,22 +5,11 @@
 - 👨‍💻 Técnico Eletrônico de Desenvolvimento na **Perto S.A.**
 - 🌱 Estudante de Ciências da Computação.
 - 💙 Interesse: React, JavaScript, MYSQL.
--
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Garcia&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Vinicius-Garcia&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
+  <a>
+    <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Garcia&theme=tokyonight&show_icons=true" />
   </a>
 </p>
 <p>
@@ -59,12 +48,5 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/vinicius-da-silva-garcia/">
     </a>
 </p>
-
-<p align="center"> 
-
- ## Total de Visitas no perfil :<br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Vinicius-Garcia/count.svg" />
- </p>
 
 </p>
