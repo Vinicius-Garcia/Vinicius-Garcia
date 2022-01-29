@@ -1,10 +1,11 @@
 # Hi there 👋
 
-### Abstract
+### Sobre:
 
 - 👨‍💻 Técnico Eletrônico de Desenvolvimento na **Perto S.A.**
 - 🌱 Estudante de Ciências da Computação.
 - 💙 Interesse: React, JavaScript, MYSQL.
+-
 
 
 <p align="center">
