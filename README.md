@@ -5,7 +5,6 @@
 - 👨‍💻 Projetista de Software na **Perto S.A.**
 - 🌱 Estudante de Ciências da Computação.
 - 💙 Interesse: React, JavaScript, Nodejs e MongoDB
-- Site Pessoal em Construção: https://viniciusgarcia.herokuapp.com/
 
 
 <p align="center">
